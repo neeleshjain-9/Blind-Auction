@@ -1,5 +1,4 @@
 from art import logo
-import os
 
 print(logo)
 print("Welcome to the secret auction program!!")
